@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UBC</string>
+    <string name="NameExt">Unique short name</string>
+    <string name="Size">Size</string>
+    <string name="Profile1">Profiles</string>
+    <string name="SCHButton1">Try again</string>
+    <string name="SCHError1">The search did not find any compatible devices, please try again or enter manually</string>
+    <string name="Cancel">Cancel</string>
+    <string name="ProfileName">Profile Name</string>
+    <string name="SCHButton2">Name or MAC address</string>
+    <string name="Name">Name</string>
+    <string name="Edit">Edit</string>
+    <string name="Add">Add</string>
+    <string name="BTButton2">Exit</string>
+    <string name="BTButton1">Enable Bluetooth</string>
+    <string name="SCHButton3">Add</string>
+    <string name="BTError1">CBluetooth</string>
+    <string name="Type">Type</string>
+    <string name="Input">Input</string>
+    <string name="Choice">Select an action</string>
+    <string name="Launch">Launch</string>
+    <string name="Change">Change</string>
+    <string name="Confirm">Are you sure to delete profile?</string>
+    <string name="ConfirmPositive">Sure</string>
+    <string name="ConfirmNegative">Cancel</string>
+    <string-array name="JoyType">
+        <item>Joystick</item>
+        <item>Vertical stick</item>
+        <item>Horizontal stick</item>
+        <item>Button</item>
+    </string-array>
+    <string name="ChoiceName">Select the client name or use default</string>
+    <string name="useDefault">Use default</string>
+</resources>

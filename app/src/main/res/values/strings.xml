@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">UBC</string>
+    <string name="BTError1">Bluetooth необходим для работы программы, включите его</string>
+    <string name="BTButton1">Включить Bluetooth</string>
+    <string name="BTButton2">Выход</string>
+    <string name="SCHError1">Поиск не нашел совместимых устройств, попробуйте ещё раз или введите вручную</string>
+    <string name="SCHButton1">Попробовать ещё раз</string>
+    <string name="SCHButton2">Название или MAC адрес</string>
+    <string name="SCHButton3">Ввод</string>
+    <string name="Profile1">Профили</string>
+    <string name="Add">Добавить</string>
+    <string name="ProfileName">Название профиля</string>
+    <string name="Edit">Изменить</string>
+    <string name="Name">Название</string>
+    <string name="NameExt">Уникальное короткое имя</string>
+    <string name="Cancel">Отменить</string>
+    <string name="Size">Размер</string>
+    <string name="Type">Тип</string>
+    <string name="Input">Ввод</string>
+    <string name="Choice">Выберите действие</string>
+    <string name="ChoiceName">Выберите имя клиента или используйте стандартное</string>
+    <string name="Launch">Запуск</string>
+    <string name="Change">Изменение</string>
+    <string name="Confirm">Вы действительно хотите удалить профиль?</string>
+    <string name="ConfirmPositive">Конечно</string>
+    <string name="ConfirmNegative">Отмена</string>
+    <string-array name="JoyType">
+        <item>Двухосевой джойстик</item>
+        <item>Одноосевой вертикальный джойстик</item>
+        <item>Одноосевой горизонтальный джойстик</item>
+        <item>Кнопка</item>
+    </string-array>
+    <string name="useDefault">Использовать стандартное</string>
+</resources>

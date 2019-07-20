@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:design="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ProfilesActivity">
+
+    <TextView
+        style="@android:style/Widget.TextView.PopupMenu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:text="@string/Profile1"
+        android:textAllCaps="false"
+        android:textSize="25sp"
+        android:typeface="serif"
+        android:textColor="@color/colorPrimary"
+        android:shadowColor="@color/colorPrimaryDark"
+        android:shadowDx="3"
+        android:shadowDy="3"
+        android:shadowRadius="4"/>
+
+    <Button
+        android:id="@+id/btnAdd"
+        style="@style/Widget.AppCompat.Button.Colored"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/Add" />
+
+    <ListView
+        android:id="@+id/listProfiles"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:divider="@color/colorPrimary"
+        android:dividerHeight="2dp">
+    </ListView>
+</LinearLayout>
